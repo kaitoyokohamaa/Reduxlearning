@@ -1,1 +1,1 @@
-<h1>ReduxによるState管理の勉強</h1>
+<h2>ReduxによるState管理</h2>
