@@ -22,3 +22,7 @@ export const substoract = (value) =>{
         val:value
     }
 }
+
+
+
+
